@@ -1,0 +1,231 @@
+.land
+{
+    background-image: url(./nbg.png);
+    background-size: cover;
+}
+
+#netflix
+{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    margin-left: 50%;
+}
+#button
+{
+    width: 130px;
+    height: 40px;
+    border-radius: 8%;
+    background-color: rgba(0, 0, 0, 0.441);
+    border-color: white;
+}
+.en
+{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+#in
+{
+    width: 100px;
+    height: 35px;
+    border-radius: 8%;
+    background-color: red;
+    border-color: red;
+}
+#sign
+{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: large;
+}
+.h1
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: 730;
+}
+.h4
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 0%;
+    top: 0%;
+}
+.ready
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    font-weight: 100;
+}
+#text
+{
+    width: 25%;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.363);
+    border-color: rgba(255, 255, 255, 0.53);
+}
+input::placeholder
+{
+    color: rgba(255, 255, 255, 0.63);
+    font-size: 19px;
+}
+#b
+{
+    background-color: red;
+    width: 10%;
+    height: 52px;
+    border-color: red;
+    border-radius: 5%;
+}
+.a
+{
+    text-decoration: none;
+    color:white;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#t
+{
+    background-color: black;
+}
+#tv1{
+    color: white;
+    font-size: 50px;
+    font-style: normal;
+}
+#tv2{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#show{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#show1{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#show2{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#show3{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#watch{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#watch1{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#watch2{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#profile{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+}
+#profile1{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#table1
+{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+}
+#table2{
+    background-color: black;
+    width: 100%;
+    height:400px;
+}
+#table3{
+    background-color: black;
+    width: 100%;
+    height:400px;
+}
+#table4{
+    background-color: black;
+    width: 100%;
+    height:400px;
+}
+#bcolor{
+    background-color: black;
+}
+#freq{
+    color: white;
+    width: 100%;
+    height:500px;
+    font-size: 50px;
+    font-style: normal;
+}
+#flix{
+    background-color:rgba(128, 128, 128, 0.466);
+    width: 600px;
+    height:100px;
+    
+}
+#fli{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+    text-decoration: none;
+}
+#plus{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+    text-decoration: none;
+}
+#info{
+    color:rgba(128, 128, 128, 0.927);
+    
+}
+#last{
+    background-color:black;
+}
+#flix1{
+    background-color:rgba(128, 128, 128, 0.009);
+    width: 120px;
+    height:50px;
+    border-color: white;
+    text-decoration: none;
+    margin-left: 1%;
+}
+#fli1{
+    color: gray;
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 1%;
+}
+#last1{
+    background-color:rgba(0, 0, 0, 0.402);
+    height: 400px;
+}
+#netflix{
+   font-size: 50px;
+}
